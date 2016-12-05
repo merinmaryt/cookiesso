@@ -18,7 +18,7 @@ use Facebook\HttpClients\FacebookHttpable;
 // start session
 
 // init app with app id and secret
-FacebookSession::setDefaultApplication( '1655473584751429','638c7fa220ac6e88ee60f421c0654123' );
+FacebookSession::setDefaultApplication( '1052042181571940','5c6ccd1ee335ea4a02225fee68119b13' );
 
 // login helper with redirect_uri
 
